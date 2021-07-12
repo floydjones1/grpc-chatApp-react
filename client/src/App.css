@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: aliceblue;
+  align-items: center;
+}
+
+* {
+  box-sizing: border-box;
+}
